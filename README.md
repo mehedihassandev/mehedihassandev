@@ -1,4 +1,5 @@
-## Hi 👋! My name is Md. Mehedi Hassan... and I'm a Front End Developer ... from ... Bangladesh
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Md. Mehedi Hassan</h1>
 
 
 ### 💻 Tech Stack:
@@ -8,10 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=mehedihassandev&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehedihassandev&theme=dark&hide_border=true)
 
+### ⚡ Activity Graph
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedihassandev&theme=github-compact"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mehedihassandev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
